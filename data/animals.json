@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Lucy",
+      "species": "Lorax",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
